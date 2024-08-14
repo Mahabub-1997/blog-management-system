@@ -80,7 +80,7 @@
 
 
                             <li>
-                                <a class="dropdown-item" href="index2.html">
+                                <a class="dropdown-item" href="/dashboard">
                                     <div class="d-flex align-items-center">
                                         <div class="setting-icon"><i class="bi bi-speedometer"></i></div>
                                         <div class="setting-text ms-3"><span>Dashboard</span></div>
